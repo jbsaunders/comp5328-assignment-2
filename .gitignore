@@ -2,6 +2,9 @@
 results*
 data*
 
+# Patrick's alternate file
+assignment_final_pat.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
