@@ -1,0 +1,8 @@
+# Core scientific / ML stack
+numpy
+pandas
+scipy
+scikit-learn
+torch
+matplotlib
+tabulate
